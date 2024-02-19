@@ -1,3 +1,5 @@
 *.o
 dmenu
 stest
+*.swp
+*.swo
